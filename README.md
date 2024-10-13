@@ -24,10 +24,6 @@ b.被调用次数较多.（调用频率高）
 
 ## 2. jvm
 
-资料；https://time.geekbang.org/column/article/14070?code=aSekYDLw0Ikh4FLNv64IV4%252Fn-Oh%252Fh396EICWSWvkZ8M%253D
-
-资料；https://www.woshinlper.com/java/jvm/%5B%E5%8A%A0%E9%A4%90%5D%E5%A4%A7%E7%99%BD%E8%AF%9D%E5%B8%A6%E4%BD%A0%E8%AE%A4%E8%AF%86JVM/
-
 ### 2.1 清晰解释下 java jdk 1.8 jvm 内存空间都有啥，都是啥作用。
 
 在 Java 运行环境中，JVM（Java Virtual Machine, Java 虚拟机）是执行 Java 程序的引擎，而内存管理是 JVM 非常重要的一部分。JDK 1.8 中的 JVM 内存空间主要分为以下几个区域，每个区域都有其特定的用途：
