@@ -1,0 +1,95 @@
+24-10-13.14:54:28.746 [main            ] INFO  Application            - Starting Application v1.0-SNAPSHOT using Java 1.8.0_342 on dbbaf71cde97 with PID 7 (/xfg-dev-tech-app.jar started by root in /)
+24-10-13.14:54:28.756 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-10-13.14:54:32.423 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-10-13.14:54:32.451 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-10-13.14:54:32.455 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-10-13.14:54:32.459 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-10-13.14:54:32.623 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-10-13.14:54:32.626 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3560 ms
+24-10-13.14:54:34.064 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-10-13.14:54:34.111 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-10-13.14:54:34.179 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-10-13.14:54:34.209 [main            ] INFO  Application            - Started Application in 6.812 seconds (JVM running for 7.8)
+24-10-13.15:05:05.694 [http-nio-8091-exec-1] INFO  [/]                    - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-10-13.15:05:05.698 [http-nio-8091-exec-1] INFO  DispatcherServlet      - Initializing Servlet 'dispatcherServlet'
+24-10-13.15:05:05.710 [http-nio-8091-exec-1] INFO  DispatcherServlet      - Completed initialization in 11 ms
+24-10-13.15:05:05.827 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.221 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.264 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.279 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.301 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.314 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.330 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.349 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.366 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.385 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:25:02.402 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.537 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.558 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.585 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.608 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.639 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.658 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.681 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.698 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.714 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:03.727 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.708 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.737 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.752 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.772 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.795 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.818 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.843 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.865 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.887 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:04.903 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.710 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.737 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.753 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.772 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.799 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.818 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.845 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.867 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.890 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:05.904 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.710 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.738 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.755 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.773 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.801 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.819 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.850 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.869 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.907 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:06.909 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.711 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.739 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.756 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.773 [pool-2-thread-5 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.801 [pool-2-thread-6 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.819 [pool-2-thread-7 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.851 [pool-2-thread-8 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.870 [pool-2-thread-9 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.908 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:30:07.909 [pool-2-thread-10] INFO  Application            - 模拟填充大对象
+24-10-13.15:45:23.410 [main            ] INFO  Application            - Starting Application v1.0-SNAPSHOT using Java 1.8.0_342 on 65829cca567e with PID 7 (/xfg-dev-tech-app.jar started by root in /)
+24-10-13.15:45:23.414 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-10-13.15:45:26.424 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-10-13.15:45:26.442 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-10-13.15:45:26.444 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-10-13.15:45:26.445 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-10-13.15:45:26.586 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-10-13.15:45:26.588 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3015 ms
+24-10-13.15:45:27.664 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-10-13.15:45:27.701 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-10-13.15:45:27.734 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-10-13.15:45:27.780 [main            ] INFO  Application            - Started Application in 5.44 seconds (JVM running for 6.92)
+24-10-13.15:45:52.996 [http-nio-8091-exec-1] INFO  [/]                    - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-10-13.15:45:53.002 [http-nio-8091-exec-1] INFO  DispatcherServlet      - Initializing Servlet 'dispatcherServlet'
+24-10-13.15:45:53.026 [http-nio-8091-exec-1] INFO  DispatcherServlet      - Completed initialization in 20 ms
+24-10-13.15:45:53.157 [pool-2-thread-1 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:47:06.890 [pool-2-thread-2 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:48:24.480 [pool-2-thread-3 ] INFO  Application            - 模拟填充大对象
+24-10-13.15:54:55.176 [pool-2-thread-4 ] INFO  Application            - 模拟填充大对象
