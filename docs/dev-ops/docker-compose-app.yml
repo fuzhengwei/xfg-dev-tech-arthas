@@ -13,7 +13,7 @@ services:
       - TZ=PRC
       - SERVER_PORT=8091
       # 2c4g 配置，4c8g 翻倍，-Xms4096m -Xmx4096m | -Xmx –Xms：指定java堆最大值（默认值是物理内存的1/4(<1GB)）和初始java堆最小值（默认值是物理内存的1/64(<1GB))
-      - JAVA_OPTS=-Xms2048m -Xmx2048m -XX:MaxMetaspaceSize=128m -XX:MetaspaceSize=128m
+      - JAVA_OPTS=-Xms2048m -Xmx2048m
     volumes:
       - ./log:/data/log
       - ./arthas/profiler:/arthas-output
